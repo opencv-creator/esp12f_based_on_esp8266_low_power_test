@@ -1,6 +1,6 @@
 i have purchased this components from robu website.
 
-esp12f board is suitable for low power sleep
+esp12f board is suitable for low power sleep (purchase it here)
 
 https://robu.in/product/latest-esp-12f-esp8266-wifi-module-ap-station-remote-serial-wireless-iot-board/
 
